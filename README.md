@@ -1,2 +1,2 @@
-# sample.main1
+# sample-main1
 sql
